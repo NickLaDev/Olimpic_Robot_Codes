@@ -54,3 +54,35 @@ Aqui está uma visão geral da organização dos arquivos neste repositório:
 │   ├── Codigo-RobotC-EV3/
 │   ├── Modelos-3D-Atualizados/
 │   ├── Videos-Nacional/
+
+Fase-Estadual: Contém os códigos, modelos 3D e vídeos das competições Estadual e Regional.
+Fase-Nacional: Contém os códigos de integração EV3-Arduino, atualizações nos modelos 3D e vídeos da fase Nacional.
+
+🚀 Tecnologias Utilizadas
+Hardware:
+Mindstorms EV3 para controle do robô.
+Arduino para expandir o número de sensores conectados.
+Sensores de cor e distância.
+Motores para movimentação e manipulação.
+Software:
+RobotC para programação do EV3.
+C++ para programação do Arduino.
+Fusion 360 para modelagem de peças customizadas em 3D.
+Impressão 3D e corte a laser para fabricação de componentes.
+
+📹 Demonstrações em Vídeo
+Confira as execuções do robô nas diferentes fases:
+
+Execução na Fase Estadual
+Execução na Fase Nacional
+🔧 Como Executar o Código
+Para a Fase Estadual:
+
+Use a IDE RobotC para carregar os códigos do robô.
+Conecte o EV3 ao seu computador e faça o upload do código.
+Para a Fase Nacional:
+
+Use a IDE Arduino para carregar o código no Arduino.
+Use o RobotC para carregar o código no EV3.
+Certifique-se de que o protocolo de comunicação entre EV3 e Arduino esteja configurado corretamente.
+

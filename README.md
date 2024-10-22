@@ -86,3 +86,5 @@ Use a IDE Arduino para carregar o código no Arduino.
 Use o RobotC para carregar o código no EV3.
 Certifique-se de que o protocolo de comunicação entre EV3 e Arduino esteja configurado corretamente.
 
+👨‍💻 Colaboradores
+Nicolas Laredo - Desenvolvedor principal e responsável pela montagem e programação do robô.

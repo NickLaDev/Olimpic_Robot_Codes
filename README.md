@@ -57,6 +57,7 @@ Aqui está uma visão geral da organização dos arquivos neste repositório:
 
 Fase-Estadual: Contém os códigos, modelos 3D e vídeos das competições Estadual e Regional.
 Fase-Nacional: Contém os códigos de integração EV3-Arduino, atualizações nos modelos 3D e vídeos da fase Nacional.
+```
 
 🚀 Tecnologias Utilizadas
 Hardware:
